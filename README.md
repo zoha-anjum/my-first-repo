@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-This is a Change line
-=======
-This is a change line in conflict-branch
->>>>>>> conflict-branch
+
+This is the resolved version after merge.
